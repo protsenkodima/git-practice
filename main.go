@@ -5,5 +5,6 @@ import (
 )
 func main() {
 	text := "instruction"
-	fmt.Println(text)
+	text2 := "description"
+	fmt.Println(text, text2)
 }
